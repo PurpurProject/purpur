@@ -1,6 +1,6 @@
 package packetdata
 
-import "github.com/CalmBit/elytra/packetutil"
+import "github.com/PurpurProject/elytra/packetutil"
 
 type SBHandshakePacket struct {
 	length          int32

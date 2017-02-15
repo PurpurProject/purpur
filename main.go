@@ -6,7 +6,7 @@ import (
 
 	"time"
 
-	"github.com/CalmBit/purpur/server"
+	"github.com/PurpurProject/purpur/server"
 	logging "github.com/op/go-logging"
 )
 

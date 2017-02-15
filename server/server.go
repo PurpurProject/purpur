@@ -8,9 +8,9 @@ import (
 	"encoding/binary"
 	"encoding/json"
 
-	"github.com/CalmBit/elytra/connutil"
-	"github.com/CalmBit/elytra/packetutil"
-	"github.com/CalmBit/purpur/packetdata"
+	"github.com/PurpurProject/elytra/connutil"
+	"github.com/PurpurProject/elytra/packetutil"
+	"github.com/PurpurProject/purpur/packetdata"
 	logging "github.com/op/go-logging"
 )
 

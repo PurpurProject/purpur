@@ -1,7 +1,7 @@
 package server
 
 import (
-	"github.com/CalmBit/elytra/jsonutil"
+	"github.com/PurpurProject/elytra/jsonutil"
 )
 
 type ServerStatus struct {
